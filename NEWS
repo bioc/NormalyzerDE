@@ -1,3 +1,8 @@
+CHANGES IN VERSION 1.18.1
+----------------------------------
+
+* Fix breaking bug caused by changed signature for RcmdrMisc
+
 CHANGES IN VERSION 1.13.2
 ----------------------------------
 
